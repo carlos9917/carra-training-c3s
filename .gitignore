@@ -1,7 +1,8 @@
 .DS_Store
 .vscode/
 .ipynb_checkpoints/
-
+.idx
+monthly_means_carra
 _build
 
 data_dir/
