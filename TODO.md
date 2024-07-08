@@ -2,9 +2,9 @@
 
 So the list of notebooks would look like as follows:
 
-- [X] Getting and plotting 2m temperature CARRA data. Merged `CARRA_get_T2m.ipynb` and `CARRA_T2m_mean.ipynb`
+- [X] Getting and plotting 2m temperature CARRA data. Merged `CARRA_get_T2m.ipynb` and `CARRA_T2m_mean.ipynb` in notebook: `CARRA_fetch_plot_T2m.ipynb`
 
-- [ ] Getting, plotting and comparing 2m temperature ERA5 and CARRA data for the CARRA-West domain.
+- [X] Getting, plotting and comparing 2m temperature ERA5 and CARRA data for the CARRA-West domain. Merged `CARRA_get_T2m.ipynb` and `CARRA_fetch_plot_T2m.ipynb` in notebook: `CARRA_ERA5_fetch_plot_T2m.ipynb`.
 
 - [ ] Getting, plotting and comparing total precipitation ERA5 and CARRA data for the CARRA-West domain.
 
