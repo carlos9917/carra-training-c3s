@@ -10,3 +10,5 @@ So the list of notebooks would look like as follows:
 
 - [ ] Plotting CARRA and ERA5 2m temperature anomaly timeseries with respect to the climatological mean (note: this  notebook requires that the CARRA monthly means are published in the CDS, so this can be completed once that is available). Will use the same original script `CARRA_ERA5_time_series_anomaly.ipynb`.
 
+- [ ] Remove the old notebooks when finished, leave only the merged versions.
+
